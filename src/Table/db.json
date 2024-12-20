@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 6886,
+      "studentNumber": 6886,
+      "name": "Annu Sisodiya",
+      "dateOfBirth": "2024-12-11",
+      "major": "Communications"
+    },
+    {
+      "id": 2174,
+      "studentNumber": 2174,
+      "name": "Mohit Kumar",
+      "dateOfBirth": "2024-12-16",
+      "major": "Computer Science"
+    },
+    {
+      "id": 7855,
+      "studentNumber": 7855,
+      "name": "Jennifer",
+      "dateOfBirth": "2024-12-10",
+      "major": "Business"
+    },
+    {
+      "id": 779,
+      "studentNumber": 779,
+      "name": "Moni",
+      "dateOfBirth": "2024-12-10",
+      "major": "Psychology"
+    },
+    {
+      "id": 9209,
+      "studentNumber": 9209,
+      "name": "",
+      "dateOfBirth": "",
+      "major": ""
+    }
+  ]
+}
